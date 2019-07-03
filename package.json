@@ -1,5 +1,6 @@
 {
   "name": "Code Poem",
   "version": "1.0.0",
+  "main": "poem-1.js",
   "dependencies": {}
 }
